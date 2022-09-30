@@ -14,5 +14,7 @@ type User struct {
 
 }
 
-# Routing is done using gorilla/mux package
-# Database used : MongoDB Atlas(NoSQL)
+# Routing
+Routing is done using gorilla/mux package
+# Database
+MongoDB Atlas(NoSQL) is used for CRUD operations
